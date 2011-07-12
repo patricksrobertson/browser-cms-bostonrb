@@ -1,17 +1,15 @@
 !SLIDE
-# Ranked Model #
+# BrowserCMS #
 
-Patrick Robertson  
-[http://twitter.com/patricksroberts](http://twitter.com/patricksroberts) 
-
-[http://github.com/patricksrobertson](http://github.com/patricksrobertson)
-
-[http://github.com/Velir](http://github.com/Velir)
+## Patrick Robertson ##
+### [http://twitter.com/patricksroberts](http://twitter.com/patricksroberts) ###
+### [http://github.com/patricksrobertson](http://github.com/patricksrobertson) ###
+### [http://github.com/Velir](http://github.com/Velir) ###
 
 
-!SLIDE smbullets
-# What is Ranked Model? #
+!SLIDE
+# Why BrowserCMS? #
 
-* Write-optimized ActsAsList.
-* Developed by [Harvest](http://getharvest.com)
-* [https://github.com/harvesthq/ranked-model](https://github.com/harvesthq/ranked-model)
+!SLIDE center
+
+[![Pie Chart](piechart.png)](http://www.velir.com)
